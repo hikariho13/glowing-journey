@@ -1,2 +1,2 @@
-# glowing-journey
-banner
+# banner-js
+
